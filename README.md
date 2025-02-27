@@ -1,6 +1,8 @@
 # team-eve2
 Leerteam bestaande uit: Abdi, Johan, Natan, Rick, Robin
 
+# !!!! KIJK OP GITLAB
+
 Het doel van dit project is bestanden gemakkelijk te delen en het gebruiken van versiebeheer.
 
 ## Werkwijze proces
